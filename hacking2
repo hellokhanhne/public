@@ -1,0 +1,14 @@
+POST /ajax.php HTTP/1.1
+Host: 192.168.56.224:8081
+Content-Length: 19
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: http://192.168.56.224:8081
+Referer: http://192.168.56.224:8081/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session=95fccd5c-03a8-4304-82aa-f8e21590df17.2GsnAsZGv9eJGsDdShaAR1jzWAs
+Connection: close
+
+{"productID":"100"}
